@@ -2,7 +2,7 @@
 """This module contains the class square"""
 
 
-class square():
+class Square():
     """Definations of the class square"""
 
     def __init__(self, *args, **kwargs):
